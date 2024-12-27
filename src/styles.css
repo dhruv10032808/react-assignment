@@ -1,0 +1,41 @@
+/* General Styling */
+.App {
+    font-family: Arial, sans-serif;
+  }
+  
+  .pediatrics-screen {
+    padding: 20px;
+  }
+  
+  /* Header Styling */
+  .screen-title {
+    text-align: center;
+    margin: 20px 0;
+    font-size: 24px;
+    color: #333;
+  }
+  
+  /* Table Styling */
+  .patient-link {
+    background: none;
+    border: none;
+    color: blue;
+    text-decoration: underline;
+    cursor: pointer;
+  }
+  
+  .patient-link:hover {
+    color: darkblue;
+  }
+
+  table th.table-header {
+    background-color: purple;
+    color: white;
+  }  
+  
+  /* Modal Styling */
+  .modal-content pre {
+    font-size: 14px;
+    white-space: pre-wrap;
+  }
+  
